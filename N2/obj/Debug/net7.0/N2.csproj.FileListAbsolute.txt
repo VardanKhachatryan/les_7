@@ -1,0 +1,14 @@
+D:\GkBr\git\Урок 7. Рекурсия\N2\bin\Debug\net7.0\N2.exe
+D:\GkBr\git\Урок 7. Рекурсия\N2\bin\Debug\net7.0\N2.deps.json
+D:\GkBr\git\Урок 7. Рекурсия\N2\bin\Debug\net7.0\N2.runtimeconfig.json
+D:\GkBr\git\Урок 7. Рекурсия\N2\bin\Debug\net7.0\N2.dll
+D:\GkBr\git\Урок 7. Рекурсия\N2\bin\Debug\net7.0\N2.pdb
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\N2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\N2.AssemblyInfoInputs.cache
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\N2.AssemblyInfo.cs
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\N2.csproj.CoreCompileInputs.cache
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\N2.dll
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\refint\N2.dll
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\N2.pdb
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\N2.genruntimeconfig.cache
+D:\GkBr\git\Урок 7. Рекурсия\N2\obj\Debug\net7.0\ref\N2.dll
